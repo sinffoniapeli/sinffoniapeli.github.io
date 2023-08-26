@@ -1,6 +1,5 @@
 html {
-width: 1020px;
-height: 700px;
+width: 90%;
 }
 
 .peli {
@@ -11,8 +10,8 @@ align-items: center;
 }
 
 .kuva {
-width: 900px;
-height: 700px;
+width: 450px;
+height: 350px;
 }
 
 button {
