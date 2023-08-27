@@ -15,18 +15,18 @@ align-items: center;
 width: 85%;
 }
 
+.button-container {
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+
 .button1 {
 font-size: 18px;
 padding: 10px;
-position: absolute;
-bottom: 10%;
-left: 15%;
 }
 
 .button2 {
 font-size: 18px;
 padding: 10px;
-position: absolute;
-bottom: -10%;
-left: 15%;
 }
