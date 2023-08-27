@@ -1,6 +1,6 @@
 html {
 background-color: #F7F2E0;
-width: 90%;
+width: 100%;
 height: 100%;
 }
 
@@ -11,14 +11,13 @@ align-items: center;
 }
 
 .kuva {
-width: 450px;
-height: 350px;
+width: 40%;
 }
 
 button {
-font-size: 20px;
+font-size: 30px;
 padding: 10px;
-position: absolute;
+position: relative;
 bottom: 20%;
 left: 50%;
 }
