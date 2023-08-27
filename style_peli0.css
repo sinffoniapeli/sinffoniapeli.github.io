@@ -1,7 +1,5 @@
 html {
 background-color: #F7F2E0;
-width: 100%;
-height: 100%;
 }
 
 .peli {
@@ -15,9 +13,8 @@ width: 40%;
 }
 
 button {
-font-size: 30px;
+font-size: 25px;
 padding: 10px;
 position: relative;
 bottom: 20%;
-left: 50%;
 }
