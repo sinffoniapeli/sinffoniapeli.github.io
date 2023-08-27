@@ -1,6 +1,8 @@
 html {
-width: 90%;
-height: 60%;
+background-color: #F7F2E0;
+display: flex;
+flex-direction: column;
+align-items: center;
 }
 
 body {
