@@ -1,24 +1,24 @@
 html {
-background-color: #F7F2E0;
-display: flex;
-flex-direction: column;
-align-items: center;
+width: 510px;
+height: 350px;
 }
 
 .peli {
+border: solid;
 display: flex;
 flex-direction: column;
 align-items: center;
 }
 
 .kuva {
-width: 85%;
+width: 450px;
+height: 350px;
 }
 
 button {
 font-size: 20px;
-padding: 15px;
+padding: 10px;
 position: absolute;
-bottom: 10%;
-left: 40%;
+top: 280px;
+left: 190px;
 }
