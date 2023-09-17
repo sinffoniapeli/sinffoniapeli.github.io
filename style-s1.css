@@ -1,11 +1,5 @@
-html {
-width: 1000px;
-height: 1000px;
-}
-
-
 .peli {
-width: 50%;
+width: 75%;
 border: solid;
 display: flex;
 flex-direction: column;
