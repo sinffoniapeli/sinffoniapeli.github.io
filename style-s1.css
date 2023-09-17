@@ -5,6 +5,8 @@ height: 1000px;
 
 
 .peli {
+width: 1000px;
+height: 1000px;
 border: solid;
 display: flex;
 flex-direction: column;
