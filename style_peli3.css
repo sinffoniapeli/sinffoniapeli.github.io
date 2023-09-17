@@ -1,5 +1,6 @@
 .peli {
 width: 75%;
+height: 75%;
 border: solid;
 display: flex;
 flex-direction: column;
