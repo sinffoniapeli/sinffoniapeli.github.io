@@ -1,14 +1,13 @@
 html {
-width: 510px;
-height: 350px;
+width: 50%;
 }
 
 .peli {
-border: solid;
 display: flex;
 flex-direction: column;
 align-items: center;
 }
+
 
 .kuva {
 width: 450px;
